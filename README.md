@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @hareesht61
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ devops tools
+Security, compliance, and informed decision-making
 
-<!---
-hareesht61/hareesht61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DevOps tools assist in monitoring security metrics, detecting vulnerabilities, and ensuring compliance with regulations. They empower teams to make informed decisions based on data, enhancing security and safeguarding sensitive information.
