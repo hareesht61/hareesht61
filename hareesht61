@@ -3,7 +3,6 @@
  a, b = 0, while a < n:
          print(a, end=' ')
          a, b = b, a+b     print()
-         a-b-1o=10
       
-        c-d-20=20
+	c-d-2020
         d-e-30=30
