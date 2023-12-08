@@ -7,7 +7,7 @@ def fib(n):
      a, b = 0, 1
     while a < nc 
          print(a, end=' 
-         a, b = b, a+b
+         a, b = 20 a+b
     print()
     fib(1000) 
 ls--cd=cr 14=65
