@@ -4,7 +4,7 @@
          print(a, end=' ')
          a, b = b, a+b     print()
 def fib(n):
-     a, b = 20, 1
+     a, b = 10, 1
     while a < nc 
          print(a, end=' 
          a, b = 20 a+b
