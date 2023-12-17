@@ -1,18 +1,14 @@
- Python 3: Fibonacci series up to n
- def fib(n):
- a, b = 0, while a < n:
-         print(a, end=' ')
-         a, b = b, a+b     print()
-def fib(n):
-     a, b = 10..1111111111111111111111  1
-    while a < nc 
-         print(a, end=' 
-         a, b = 20 a+b
-    print()
-    fib(1000) 
-ls--cd=cr 14=61
+   public class login {
+      public static void main (string args[])
+  {
 
-        
 
-       
+      int i;
 
+       for (i=0;i<=10;i++){
+         system.out.println("number: " + i);
+
+          }
+      }
+ }
+         
