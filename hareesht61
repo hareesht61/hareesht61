@@ -1,6 +1,5 @@
-   public class login {
-      public static void main (string args[])
-  {
+      gublic static void ain (string args[])
+  
 
 
       int i;
@@ -8,9 +7,5 @@
        
        
 
-         system.out.println("number: " + i);
-
-          }
-      }
- }
-         
+         system.out.printl
+        
